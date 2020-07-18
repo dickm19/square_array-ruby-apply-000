@@ -3,7 +3,7 @@ def square_array(array)
   count = 0
   numbers.each do |number|
     number = number**2
-    square_array = number
+    squared_array = number
     count += 1
   end
 end
