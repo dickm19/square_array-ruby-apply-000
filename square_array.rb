@@ -1,6 +1,5 @@
-numbers = [1,2,3]
 
-def square_array(numbers)
+def square_array(array)
   square_array = []
 
   numbers.each do |number|
