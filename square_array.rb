@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(array = [1,2,3])
   numbers = [1,2,3]
   squared_array = []
   count = 0
